@@ -7,8 +7,11 @@ public class Snippet {
 		System.out.println("copy from steve account to sam account");
 		
 		System.out.println("changes made by sam");
+<<<<<<< HEAD
 		
 		
+=======
+>>>>>>> branch 'master' of https://github.com/Amruthaun/vtiger.git
 	
 	}
 }
